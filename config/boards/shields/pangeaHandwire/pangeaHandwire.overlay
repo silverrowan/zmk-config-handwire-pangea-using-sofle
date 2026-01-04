@@ -9,7 +9,7 @@
     default_kscan: kscan {
         compatible = "zmk,kscan-gpio-matrix";
         label = "default_kscan";
-        diode-direction = "col2row";        I USED NON STANDARD DIRECTION
+        diode-direction = "row2col";
     
         row-gpios = <&rpi_pico 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
                     <&rpi_pico 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
