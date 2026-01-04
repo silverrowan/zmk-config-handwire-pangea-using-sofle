@@ -23,7 +23,7 @@ include:
     shield: sofle_left
   - board: adafruit_kb2040
     shield: sofle_right
-  - board: rpi_pico
-    shield: sofle_left
-  - board: rpi_pico
-    shield: sofle_right
+#  - board: rpi_pico
+#    shield: sofle_left
+#  - board: rpi_pico
+#    shield: sofle_right
