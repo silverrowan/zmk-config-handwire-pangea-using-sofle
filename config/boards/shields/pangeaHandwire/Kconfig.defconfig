@@ -1,6 +1,6 @@
 if SHIELD_PANGEAHANDWIRE
 
 config ZMK_KEYBOARD_NAME
-    default "PangeaHandwire"
+    default "pangeaHandwire"
 
 endif
